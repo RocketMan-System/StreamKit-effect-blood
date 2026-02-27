@@ -14,8 +14,9 @@
     "type": "effect",
     "permissions": ["effectData"],
     "settings": {
+        "minSeconds": 5,
         "maxSeconds": 120,
         "volume": 70,
-        "defaultSeconds": 30
+        "defaultSeconds": 45
     }
 }
